@@ -1,0 +1,24 @@
+[
+  {
+    "id": "operator_san",
+    "name": "Operator San",
+    "lat": -37.8075575,
+    "lng": 144.9589544,
+    "rating": 4.0,
+    "notes": "Nice latte, can be slightly sweet.",
+    "suburb": "Melbourne",
+    "bestOrder": "Hot matcha latte",
+    "link": ""
+  },
+  {
+    "id": "hareruya_cbd",
+    "name": "Hareruya Pantry (CBD)",
+    "lat": -37.8136598,
+    "lng": 144.96237,
+    "rating": 4.5,
+    "notes": "Smooth, strong matcha. Great desserts too.",
+    "suburb": "Melbourne",
+    "bestOrder": "Iced matcha oat",
+    "link": ""
+  }
+]
