@@ -18,32 +18,7 @@
     "rating": "8/10",
     "notes": "Aesthetic is nice, matcha is nice and they have some different drinks available. Banananoffee affagato is to die for",
     "suburb": "Brunswick",
-    "bestOrder": "banana affagato",
-    "link": ""
-  },
-  {
-    "id": "matcha_kobo",
-    "name": "MATCHA KOBO",
-    "address": "258 Lonsdale St, Melbourne VIC",
-    "lat": -37.8115,
-    "lng": 144.9644,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
-  },
-  {
-    "id": "hikari",
-    "name": "Hikari",
-    "address": "317 Swanston St, Melbourne VIC",
-    "lat": -37.8108,
-    "lng": 144.9641,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "banana affagato"
   },
   {
     "id": "toris_exhibition",
@@ -51,35 +26,10 @@
     "address": "124 Exhibition St, Melbourne VIC",
     "lat": -37.8127,
     "lng": 144.9711,
-    "rating": "",
-    "notes": "",
+    "rating": "10/10",
+    "notes": "so many flavours and so many choices and the matcha is good",
     "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
-  },
-  {
-    "id": "balibola",
-    "name": "BALIBOLA",
-    "address": "259 Collins St, Melbourne VIC",
-    "lat": -37.8162,
-    "lng": 144.9654,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
-  },
-  {
-    "id": "matcha_kona",
-    "name": "Matcha Kona by Kaki Lima",
-    "address": "414 Swanston St, Melbourne VIC",
-    "lat": -37.8076,
-    "lng": 144.9632,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "Earl grey matcha"
   },
   {
     "id": "donatellos",
@@ -87,11 +37,10 @@
     "address": "Unit 2/2B Mitchell St, Brunswick VIC 3056",
     "lat": -37.7583,
     "lng": 144.9682,
-    "rating": "",
-    "notes": "",
+    "rating": "8.75/10",
+    "notes": "Perfect for a sunday morning. On the sweeter sde. but they improved the recipes sm, and the matcha itself is good",
     "suburb": "Brunswick",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "Hibiscus Matcha"
   },
   {
     "id": "good_measure",
@@ -99,23 +48,9 @@
     "address": "193 Lygon St, Carlton VIC 3053",
     "lat": -37.8019,
     "lng": 144.9653,
-    "rating": "",
-    "notes": "",
-    "suburb": "Carlton",
-    "bestOrder": "",
-    "link": ""
-  },
-  {
-    "id": "k5_kona",
-    "name": "K5 Kona",
-    "address": "RMIT Building 14, Melbourne VIC",
-    "lat": -37.807,
-    "lng": 144.9635,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "rating": "6.5/10",
+    "notes": "They only have matcha with oat molk so it made it really bitter but in an unnpleasant way. but everyone likes it. So I guess, i need to retry it.",
+    "suburb": "Carlton"
   },
   {
     "id": "bola_bakes",
@@ -123,11 +58,10 @@
     "address": "22A Fraser St, Airport West VIC 3042",
     "lat": -37.7204,
     "lng": 144.9603,
-    "rating": "",
-    "notes": "",
+    "rating": "6/10",
+    "notes": "Matcha is weak, but their drinks are good.",
     "suburb": "Airport West",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "the food itself lol"
   },
   {
     "id": "matcha_mate",
@@ -136,10 +70,8 @@
     "lat": -37.812,
     "lng": 144.9604,
     "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "notes": "Not bad, the cookies were really good too, but nothing standed out",
+    "suburb": "Melbourne"
   },
   {
     "id": "bal_bakes",
@@ -147,11 +79,9 @@
     "address": "Unit 2/281 Marathon Blvd, Craigieburn VIC 3064",
     "lat": -37.594,
     "lng": 144.9412,
-    "rating": "",
-    "notes": "",
-    "suburb": "Craigieburn",
-    "bestOrder": "",
-    "link": ""
+    "rating": "2/10",
+    "notes": "milky",
+    "suburb": "Craigieburn"
   },
   {
     "id": "haikuu",
@@ -159,11 +89,9 @@
     "address": "1161 Toorak Rd, Camberwell VIC 3124",
     "lat": -37.8275,
     "lng": 145.0573,
-    "rating": "",
-    "notes": "",
-    "suburb": "Camberwell",
-    "bestOrder": "",
-    "link": ""
+    "rating": "8/10",
+    "notes": "Authentic, nicely done, but expensive for the small plastic cups is crazy",
+    "suburb": "Camberwell"
   },
   {
     "id": "be_merry",
@@ -171,35 +99,20 @@
     "address": "32 Jackson Ct, Doncaster East VIC 3109",
     "lat": -37.787,
     "lng": 145.1495,
-    "rating": "",
-    "notes": "",
-    "suburb": "Doncaster East",
-    "bestOrder": "",
-    "link": ""
+    "rating": "7.5/10",
+    "notes": "sweet, nice company to the 10/10 of crepes they have though. Not bad matcha considering few places in Doncaster though",
+    "suburb": "Doncaster East"
   },
-  {
-    "id": "nanas_green_tea",
-    "name": "Nana's Green Tea",
-    "address": "487 Swanston St, Melbourne VIC 3000",
-    "lat": -37.8109,
-    "lng": 144.965,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
-  },
+
   {
     "id": "bloomwood",
     "name": "Bloomwood",
     "address": "121 Exhibition St, Melbourne VIC 3000",
     "lat": -37.8125,
     "lng": 144.9712,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "rating": "8.25/10",
+    "notes": "Surprisingly good, the matcha flavour was there but the banana matcha was too sweet. ",
+    "suburb": "Melbourne"
   },
   {
     "id": "humble_rays",
@@ -207,11 +120,10 @@
     "address": "71 Bouverie St, Carlton VIC 3053",
     "lat": -37.804,
     "lng": 144.9608,
-    "rating": "",
-    "notes": "",
+    "rating": "8.5/10",
+    "notes": "Sweet, but nice to have while studying",
     "suburb": "Carlton",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "Banana Matcha"
   },
   {
     "id": "suupaa",
@@ -219,11 +131,9 @@
     "address": "65 Dover St, Cremorne VIC 3121",
     "lat": -37.8295,
     "lng": 144.991,
-    "rating": "",
-    "notes": "",
-    "suburb": "Cremorne",
-    "bestOrder": "",
-    "link": ""
+    "rating": "8/10",
+    "notes": "Very srong matcha flavour. likr bitter in your mouth, forrced to sip matcha, but honestly it was good and nice, dont go here if you want diabetic matcha",
+    "suburb": "Cremorne"
   },
   {
     "id": "molly_tea",
@@ -231,11 +141,10 @@
     "address": "222 Swanston St, Melbourne VIC 3000",
     "lat": -37.811,
     "lng": 144.9653,
-    "rating": "",
-    "notes": "",
+    "rating": "10/10",
+    "notes": "PERFUME IN A MATCHA BUT IN A GOOOOOOD WAY!!!!!!!!!!!!",
     "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "Jasmine Matcha latte"
   },
   {
     "id": "heytea",
@@ -243,11 +152,10 @@
     "address": "Emporium Melbourne, Lonsdale St, Melbourne VIC 3000",
     "lat": -37.8108,
     "lng": 144.9645,
-    "rating": "",
-    "notes": "",
+    "rating": "7.5/10",
+    "notes": "Rating is subject to change. Recently got the matcha blue coconut drink, which was good but not enough matcha",
     "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "bestOrder": "supreme matcha latte"
   },
   {
     "id": "grb",
@@ -255,11 +163,9 @@
     "address": "Sydney Rd & Barry Rd, Campbellfield VIC 3061",
     "lat": -37.6683,
     "lng": 144.9515,
-    "rating": "",
-    "notes": "",
-    "suburb": "Campbellfield",
-    "bestOrder": "",
-    "link": ""
+    "rating": "1/10",
+    "notes": "got the strawberry matcha. Tasted like strawberry milk? where the matcha at???????",
+    "suburb": "Campbellfield"
   },
   {
     "id": "axl_coffee",
@@ -267,11 +173,9 @@
     "address": "447 Collins St, Melbourne VIC 3000",
     "lat": -37.8185,
     "lng": 144.9572,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "rating": "0/10",
+    "notes": "disgusting. dont even bother. they store the matcha in premade little containers as well, and then just like blitz it i guess with water and there are clumps when you drink it and its sickening",
+    "suburb": "Melbourne"
   },
   {
     "id": "peoples_coffee",
@@ -279,11 +183,9 @@
     "address": "440 Collins St, Melbourne VIC 3000",
     "lat": -37.8177,
     "lng": 144.9568,
-    "rating": "",
-    "notes": "",
-    "suburb": "Melbourne",
-    "bestOrder": "",
-    "link": ""
+    "rating": "5/10",
+    "notes": "milky, and it is premade and it tastes bitter and gross.",
+    "suburb": "Melbourne"
   },
   {
     "id": "flovie_florist_cafe",
@@ -291,10 +193,8 @@
     "address": "261-263 Queensberry St, Carlton VIC 3053",
     "lat": -37.8045,
     "lng": 144.9601,
-    "rating": "",
-    "notes": "",
-    "suburb": "Carlton",
-    "bestOrder": "",
-    "link": ""
+    "rating": "6/10",
+    "notes": "mid",
+    "suburb": "Carlton"
   }
 ]
