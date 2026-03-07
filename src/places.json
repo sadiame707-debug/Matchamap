@@ -196,5 +196,15 @@
     "rating": "2",
     "notes": "mid",
     "suburb": "Carlton"
+  },
+   {
+    "id": "first_love_coffee",
+    "name": "First love coffee",
+    "address": "261-263 Queensberry St, Carlton VIC 3053",
+    "lat": -37.8044047,
+    "lng": 144.9599301,
+    "rating": "2",
+    "notes": "mid",
+    "suburb": "Carlton"
   }
 ]
