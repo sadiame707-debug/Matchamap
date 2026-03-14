@@ -46,7 +46,7 @@ export default function App() {
     <div style={{ display: "grid", gridTemplateColumns: "380px 1fr", height: "100vh" }}>
       <div style={{ borderRight: "1px solid #eee", padding: 16, overflow: "auto" }}>
         <h2 style={{ margin: 0 }}>Matcha Map Melbourne 🍵</h2>
-        <p style={{ marginTop: 6, color: "#555" }}>Your personal ratings + notes.</p>
+
 
         <div style={{ display: "grid", gap: 10, marginTop: 12 }}>
           <input
