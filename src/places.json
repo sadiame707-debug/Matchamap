@@ -5,8 +5,8 @@
     "address": "276 Russell St, Melbourne VIC",
     "lat": -37.8099972,
     "lng": 144.9670205,
-    "rating": "3.75",
-    "notes": "Had the rasberry matcha. wasnt anything outstanding, but matcha itself was decent",
+    "rating": "4.25",
+    "notes": "Had the rasberry matcha. wasnt anything outstanding, but matcha itself was decent. I had the pistachio cream however, an that was good, and they have surpisngly improved?",
     "suburb": "Melbourne"
   },
   {
@@ -23,9 +23,9 @@
   {
     "id": "toris_exhibition",
     "name": "Tori's Exhibition",
-    "address": "124 Exhibition St, Melbourne VIC",
-    "lat": -37.8127,
-    "lng": 144.9711,
+    "address": "9 Centreway Arcade, Melbourne VIC 3000, Australia",
+    "lat": -37.81637,
+    "lng": 144.965475,
     "rating": "5",
     "notes": "so many flavours and so many choices and the matcha is good",
     "suburb": "Melbourne",
@@ -49,7 +49,7 @@
     "lat": -37.8010855,
     "lng": 144.9665141,
     "rating": "3",
-    "notes": "They only have matcha with oat molk so it made it really bitter but in an unnpleasant way. but everyone likes it. So I guess, i need to retry it.",
+    "notes": "They only have matcha with soy milk so it made it really bitter but in an unnpleasant way. but everyone likes it. So I guess, i need to retry it.",
     "suburb": "Carlton"
   },
   {
@@ -58,7 +58,7 @@
     "address": "22A Fraser St, Airport West VIC 3042",
     "lat": -37.72426986694336,
     "lng": 144.88636779785156,
-    "rating": "3",
+    "rating": "2",
     "notes": "Matcha is weak, but their drinks are good.",
     "suburb": "Airport West",
     "bestOrder": "the food itself lol"
@@ -123,7 +123,7 @@
     "rating": "4.2",
     "notes": "Sweet, but nice to have while studying",
     "suburb": "Carlton",
-    "bestOrder": "Banana Matcha"
+    "bestOrder": "pistachip Matcha"
   },
   {
     "id": "suupaa",
@@ -206,5 +206,60 @@
     "rating": "2",
     "notes": "mid",
     "suburb": "Carlton"
+  },
+    {
+    "id": "its_bagels",
+    "name": "it's bagels",
+    "address": "50 Queen Street, Melbourne VIC 3000, Australia",
+    "lat": -37.817674 ,
+    "lng": 144.96221,
+    "rating": "0",
+    "notes": "Disgusting, extra points off because it literally looked like a biohazard",
+    "suburb": "Melbourne",
+    "bestOrder": "bagel itself"
+  },
+   {
+    "id": "cardigan_55",
+    "name": "cardigan 55",
+    "address": "55 Cardigan Street, Carlton VIC 3053, Australia",
+    "lat": -37.805432 ,
+    "lng": 144.964279,
+    "rating": "4",
+    "notes": "oddly sweet but not in a bad way, and like sometimes I do get what people mean when they say matcha is fishy lol. An extra point for how close it is to uni and it makes my life sm eaiser and they have wifi as well!!!!!",
+    "suburb": "Carlton",
+    "bestOrder": "iced matcha latte, extra matcha!"
+  },
+  {
+    "id": "palette_at_night",
+    "name": "Palette. & Palette.atnight",
+    "address": "610 Queensberry Street, North Melbourne VIC 3051, Australia",
+    "lat": -37.802551 ,
+    "lng": 144.9471099,
+    "rating": "2.8",
+    "notes": "really weak lol. even the food is terribly mod, people only go for the aesthetic, and you cannot change my mind lol",
+    "suburb": "North Melbourne",
+    "bestOrder": "iced matcha latte, extra matcha"
+  },
+  {
+    "id": "Miyama_melbourne",
+    "name": "Miyama Melbourne",
+    "address": "Level 2/300 Lonsdale St, Melbourne VIC 3000",
+    "lat": -37.810966 ,
+    "lng": 144.963595,
+    "rating": "3",
+    "notes": "Not bad, but the food is even better and very cute. the matcha was not anything outstanding the colouring was a little bright tbh",
+    "suburb": "Melbourne",
+    "bestOrder": "iced matcha latte"
+  },
+  {
+    "id": "Amiri_cafe",
+    "name": "Amiri cafe",
+    "address": " Shop R02, 14 Cnr Lonsdale Street, QV, Melbourne VIC 3000",
+    "lat": -37.810817 ,
+    "lng": 144.965716,
+    "rating": "3.5",
+    "notes": "Expensiveeeeeeee. but the matcha itself was good, extra point because they are open late",
+    "suburb": "Melbourne",
+    "bestOrder": "iced matcha latte"
   }
 ]
