@@ -64,7 +64,9 @@ function getRatingLabel(rating) {
   if (rating >= 4.8) return "must try";
   if (rating >= 4.5) return "favourite";
   if (rating >= 4.0) return "worth a visit";
-  return "casual stop";
+  if (rating >= 3.0) return "casual stop";
+  if (rating <= 2.0) return "Don't bother";
+  return "";
 }
 
 export default function App() {
