@@ -21,8 +21,8 @@
     "bestOrder": "banana affagato"
   },
   {
-    "id": "toris_exhibition",
-    "name": "Tori's Exhibition",
+    "id": "Torori_Warabimochi_Australia",
+    "name": "Torori Warabimochi Australia",
     "address": "9 Centreway Arcade, Melbourne VIC 3000, Australia",
     "lat": -37.81637,
     "lng": 144.965475,
@@ -64,8 +64,8 @@
     "bestOrder": "the food itself lol"
   },
   {
-    "id": "matcha_mate",
-    "name": "Matcha Mate",
+    "id": "nimbo",
+    "name": "nimbo",
     "address": "119 Hardware St, Melbourne VIC 3000",
     "lat": -37.8121898,
     "lng": 144.9605641,
@@ -79,7 +79,7 @@
     "address": "Unit 2/281 Marathon Blvd, Craigieburn VIC 3064",
     "lat": -37.584659576416016,
     "lng": 144.90509033203125,
-    "rating": "0",
+    "rating": "0.5",
     "notes": "milky",
     "suburb": "Craigieburn"
   },
@@ -123,7 +123,7 @@
     "rating": "4.2",
     "notes": "Sweet, but nice to have while studying",
     "suburb": "Carlton",
-    "bestOrder": "pistachip Matcha"
+    "bestOrder": "pistachio Matcha"
   },
   {
     "id": "suupaa",
@@ -132,7 +132,7 @@
     "lat": -37.8287353515625,
     "lng": 144.99163818359375,
     "rating": "4",
-    "notes": "Very srong matcha flavour. likr bitter in your mouth, forrced to sip matcha, but honestly it was good and nice, dont go here if you want diabetic matcha",
+    "notes": "Very strong matcha flavour. likr bitter in your mouth, forced to sip matcha, but honestly it was good and nice, dont go here if you want diabetic matcha",
     "suburb": "Cremorne"
   },
   {
@@ -197,16 +197,6 @@
     "notes": "mid",
     "suburb": "Carlton"
   },
-   {
-    "id": "first_love_coffee",
-    "name": "First love coffee",
-    "address": "261-263 Queensberry St, Carlton VIC 3053",
-    "lat": -37.8044047,
-    "lng": 144.9599301,
-    "rating": "2",
-    "notes": "mid",
-    "suburb": "Carlton"
-  },
     {
     "id": "its_bagels",
     "name": "it's bagels",
@@ -236,7 +226,7 @@
     "lat": -37.802551 ,
     "lng": 144.9471099,
     "rating": "2.8",
-    "notes": "really weak lol. even the food is terribly mod, people only go for the aesthetic, and you cannot change my mind lol",
+    "notes": "really weak lol. even the food is terribly mid, people only go for the aesthetic, and you cannot change my mind lol",
     "suburb": "North Melbourne",
     "bestOrder": "iced matcha latte, extra matcha"
   },
@@ -257,7 +247,7 @@
     "address": " Shop R02, 14 Cnr Lonsdale Street, QV, Melbourne VIC 3000",
     "lat": -37.810817 ,
     "lng": 144.965716,
-    "rating": "3.5",
+    "rating": "4",
     "notes": "Expensiveeeeeeee. but the matcha itself was good, extra point because they are open late",
     "suburb": "Melbourne",
     "bestOrder": "iced matcha latte"
