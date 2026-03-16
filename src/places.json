@@ -262,5 +262,27 @@
     "notes": "The colour is slightly lighter then i like, i think maybe get the iced matcha latte, extra strong? the flavour profile is slightly weak, but still good though, bevause too much milk? but it is a nice spot to sit tho.",
     "suburb": "Melbourne",
     "bestOrder": "need to try the blooming one"
+  },
+   {
+    "id": "regulars",
+    "name": "REGULARS",
+    "address": "GROUND FLOOR/38-40 Little La Trobe St",
+    "lat": -37.8093144850911,
+    "lng": 144.96232801350143,
+    "rating": "4.3",
+    "notes": "REALLY GOOD. I had the cold cup and the matcha is handwhisked, and it was pistachio flavour and they had so many different flavours which I am so keen to try. new favourite?",
+    "suburb": "Melbourne",
+    "bestOrder": "pistamatcha -85 c special"
+  },
+  {
+    "id": "karomi_cafe",
+    "name": "Karomi cafe",
+    "address": "228 La Trobe St, 9 Baskerville Ln, Melbourne VIC 3000",
+    "lat": -37.809619755520366,
+    "lng": 144.96245888562973,
+    "rating": "3",
+    "notes": "can make better matcha in my house lol. Very basic, weak profile in my humble opinion.",
+    "suburb": "Melbourne",
+    "bestOrder": "tiramisu drink(coffee, milk based)"
   }
 ]
