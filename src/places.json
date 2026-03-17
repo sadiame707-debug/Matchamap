@@ -269,8 +269,8 @@
     "address": "GROUND FLOOR/38-40 Little La Trobe St",
     "lat": -37.8093144850911,
     "lng": 144.96232801350143,
-    "rating": "4.3",
-    "notes": "REALLY GOOD. I had the cold cup and the matcha is handwhisked, and it was pistachio flavour and they had so many different flavours which I am so keen to try. new favourite?",
+    "rating": "3.8",
+    "notes": "REALLY GOOD(only the pistachio one). I had the cold cup and the matcha is handwhisked, and it was pistachio flavour. The banana salted one is shit. straight up diabetes in a cup.",
     "suburb": "Melbourne",
     "bestOrder": "pistamatcha -85 c special"
   },
@@ -280,9 +280,20 @@
     "address": "228 La Trobe St, 9 Baskerville Ln, Melbourne VIC 3000",
     "lat": -37.809619755520366,
     "lng": 144.96245888562973,
-    "rating": "2.5",
+    "rating": "2.0",
     "notes": "can make better matcha in my house lol. Very basic, weak profile in my humble opinion.",
     "suburb": "Melbourne",
     "bestOrder": "tiramisu drink(coffee, milk based)"
+  },
+  {
+    "id": "Local_Goods_Carlton",
+    "name": "Local Goods Carlton",
+    "address": "216 Victoria Street, Carlton VIC 3000, Australia",
+    "lat": -37.8061408865773746,
+    "lng": 144.96012462520457,
+    "rating": "3.8",
+    "notes": "Surpisngly good. Extra point because it is hand whisked, but however it is on the lighter colour,but flavour profile is good. And it is NOT diabetes in a cup.",
+    "suburb": "Carlton",
+    "bestOrder": "Iced matcha with vanilla foam and sea salt(did not see the salt tho?)"
   }
 ]
