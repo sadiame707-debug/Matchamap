@@ -239,8 +239,7 @@ export default function App() {
                 fontSize: 14
               }}
             >
-              A soft little guide to the best matcha spots around Melbourne — save your favourites,
-              browse by suburb, and find your next café stop.
+             Sadia’s completely unqualified but financially invested, brutually honest review of Melbourne’s matcha scene because everyone these days on social media has a tendency to stray from the truth.For Educational purposes only.
             </p>
 
             <div style={{ display: "grid", gap: 12, marginTop: 18 }}>
