@@ -100,7 +100,7 @@
     "lat": -37.788959,
     "lng": 145.150145,
     "rating": "3.5",
-    "notes": "sweet, nice company to the 10/10 of crepes they have though. Not bad matcha considering few places in Doncaster though",
+    "notes": "sweet, nice  to have with  the 10/10 of crepes they have though. Not bad matcha considering few places in Doncaster though",
     "suburb": "Doncaster East"
   },
 
@@ -118,8 +118,8 @@
     "id": "humble_rays",
     "name": "Humble Rays",
     "address": "71 Bouverie St, Carlton VIC 3053",
-    "lat": -37.81388473510742,
-    "lng": 144.9713592529297,
+    "lat": -37.804343218186204, 
+    "lng": 144.96146276651348,
     "rating": "4.2",
     "notes": "Sweet, but nice to have while studying",
     "suburb": "Carlton",
@@ -169,7 +169,7 @@
   },
   {
     "id": "axl_coffee",
-    "name": "Axl Coffee",
+    "name": "Axil Coffee",
     "address": "447 Collins St, Melbourne VIC 3000",
     "lat": -37.8177181,
     "lng": 144.9594764,
@@ -247,7 +247,7 @@
     "address": " Shop R02, 14 Cnr Lonsdale Street, QV, Melbourne VIC 3000",
     "lat": -37.810817 ,
     "lng": 144.965716,
-    "rating": "4",
+    "rating": "4.2",
     "notes": "Expensiveeeeeeee. but the matcha itself was good, extra point because they are open late",
     "suburb": "Melbourne",
     "bestOrder": "iced matcha latte"
@@ -295,5 +295,50 @@
     "notes": "Surpisngly good. Extra point because it is hand whisked, but however it is on the lighter colour,but flavour profile is good. And it is NOT diabetes in a cup.",
     "suburb": "Carlton",
     "bestOrder": "Iced matcha with vanilla foam and sea salt(did not see the salt tho?)"
+  },
+    {
+    "id": "Supersede_coffee",
+    "name": "Supersede Coffee",
+    "address": "519-521 Elizabeth St, Melbourne VIC 3000",
+    "lat": -37.80655414143654,
+    "lng": 144.95947895767253,
+    "rating": "2",
+    "notes": "Bad.Not surprised though. Extra points because the ambience+nice spot to study, their other drinks and food(and halal!) are decent. but DO NOT order the matcha.",
+    "suburb": "Melbourne",
+    "bestOrder": "Need to try other drinks"
+  },
+     {
+    "id": "Hector's_Deli",
+    "name": "Hector's Deli",
+    "address": "430 Little Collins St, Melbourne VIC 3000"
+    "lat": -37.81521307798573, 
+    "lng": 144.9599041856275,
+    "rating": "1.5",
+    "notes": "I had it a while ago, but I think it was straight up milky, despite only using alternative milks lol, and it was not worth it.",
+    "suburb": "Melbourne",
+    "bestOrder": "Sadnwhiches"
+  },
+    {
+    "id": "Petit_corner",
+    "name": "Petit Corner",
+    "address": "Ground Floor/342 Flinders St, Melbourne VIC 3000"
+    "lat": -37.81834143109474, 
+    "lng": 144.96303099814608,
+    "rating": "3",
+    "notes": "Surprisngly not bad given that it is only $6.50. There are clumps, and the colour is slightly swanky, however the peach cream matcha, is surprisingly really tasty(maybe because of the cream lol).The matcha flavour is prominent and the peach cream is a nice touch.",
+    "suburb": "Melbourne",
+    "bestOrder": "iced peach cream matcha"
+  },
+  {
+    "id": "Sneaker_Laundry_LAB",
+    "name": "Sneaker Laundry LAB",
+    "address": "517 Flinders Lane, Corner Katherine Place &, Flinders Ln, Melbourne VIC 3000"
+    "lat": -37.8195237433028, 
+    "lng": 144.9563444395317,
+    "rating": "3.5",
+    "notes": "I actually really liked their matcha kult, and their matcha blush. On the sweeter side though, which is meh. Surprisingly, other people did not like it though?",
+    "suburb": "Melbourne",
+    "bestOrder": "Matcha Kult"
   }
+  
 ]
