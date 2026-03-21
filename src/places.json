@@ -310,18 +310,18 @@
      {
     "id": "Hector's_Deli",
     "name": "Hector's Deli",
-    "address": "430 Little Collins St, Melbourne VIC 3000"
+    "address": "430 Little Collins St, Melbourne VIC 3000",
     "lat": -37.81521307798573, 
     "lng": 144.9599041856275,
     "rating": "1.5",
     "notes": "I had it a while ago, but I think it was straight up milky, despite only using alternative milks lol, and it was not worth it.",
     "suburb": "Melbourne",
-    "bestOrder": "Sadnwhiches"
+    "bestOrder": "Sandwiches"
   },
     {
     "id": "Petit_corner",
     "name": "Petit Corner",
-    "address": "Ground Floor/342 Flinders St, Melbourne VIC 3000"
+    "address": "Ground Floor/342 Flinders St, Melbourne VIC 3000",
     "lat": -37.81834143109474, 
     "lng": 144.96303099814608,
     "rating": "3",
@@ -332,7 +332,7 @@
   {
     "id": "Sneaker_Laundry_LAB",
     "name": "Sneaker Laundry LAB",
-    "address": "517 Flinders Lane, Corner Katherine Place &, Flinders Ln, Melbourne VIC 3000"
+    "address": "517 Flinders Lane, Corner Katherine Place &, Flinders Ln, Melbourne VIC 3000",
     "lat": -37.8195237433028, 
     "lng": 144.9563444395317,
     "rating": "3.5",
